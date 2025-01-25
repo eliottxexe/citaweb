@@ -66,9 +66,6 @@ var quotes =
     "« Quand croyez-vous qu'un homme meurt ? Lorsqu'il se prend une balle en plein coeur ? Lorsqu'il contracte une maladie incurable ? Lorsqu'il avale une soupe de champignons vénéneux ? Non. Il meurt, dès qu'on ne se souvient plus de lui. » Dr Hiluluk, One Piece",
     "« C'est pas une question de possibilité, c'est juste une question de volonté. » Monkey D. Luffy",
     "« Les choses ne se déroulent pas toujours comme on le voudrait. » Madara, Naruto",
-    "« Les minutes sont plus puissantes que des balles. Ne perdez pas votre temps. » Eliott Exe",
-    "« J'ai voulu changer, alors j'ai changer. » Eliott Exe",
-    "« On disait que je pouvais réussir, moi je disais que j'allais réussir. » Eliott Exe",
     "« Ton temps est la lumière, et les distractions le trou noir qui les aspire. » Eliott Exe",
 ]
 
