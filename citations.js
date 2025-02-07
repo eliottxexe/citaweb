@@ -66,9 +66,6 @@ var quotes =
     "« When do you think a man dies? When he is shot in the heart? When he contracts an incurable disease? When he eats a soup of poisonous mushrooms? No. He dies when he is forgotten. » Dr. Hiluluk, One Piece",
     "« It's not a question of possibility; it's just a question of will. » Monkey D. Luffy",
     "« Things don't always go the way we want. » Madara, Naruto",
-    "« Minutes are more powerful than bullets. Don't waste your time. » Eliott Exe",
-    "« I wanted to change, so I changed. » Eliott Exe",
-    "« They said I could succeed, I said I would succeed. » Eliott Exe",
     "« Your time is the light, and distractions are the black hole that catches it. » Eliott Exe",
 ];
 
